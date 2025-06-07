@@ -1,1 +1,2 @@
 # java.project allows students to enroll i.e select their courses
+the project allows students to enroll in courses using a HashMap, where student IDs are mapped to their selected courses. It implements add, drop, and search functionalities. It also uses key concepts such as serialization, encapsulation, constructors and exception handling. Project has multiple files interlinked to each other each file serving a different purpose.
